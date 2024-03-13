@@ -1,7 +1,7 @@
 .btn-plus {
     color: white;
     background-color: #4FAC5C;
-    border-radius: 14px;
+    border-radius: 50%;
     border: none;
 
 }
@@ -9,7 +9,7 @@
 .btn-minus {
     color: white;
     background-color: #AF2419;
-    border-radius: 14px;
+    border-radius: 80%;
     border: none;
 
 }
